@@ -16,6 +16,7 @@ div.checkbox label {
 
 #issue_badge > li > div {
   max-width: 230px;
+  width: 230px;
   position: absolute;
   display: block;
   top: 18px;
